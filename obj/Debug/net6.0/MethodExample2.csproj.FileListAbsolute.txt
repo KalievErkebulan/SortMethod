@@ -1,0 +1,15 @@
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\MethodExample2\bin\Debug\net6.0\MethodExample2.exe
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\MethodExample2\bin\Debug\net6.0\MethodExample2.deps.json
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\MethodExample2\bin\Debug\net6.0\MethodExample2.runtimeconfig.json
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\MethodExample2\bin\Debug\net6.0\MethodExample2.dll
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\MethodExample2\bin\Debug\net6.0\MethodExample2.pdb
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\MethodExample2\obj\Debug\net6.0\MethodExample2.csproj.AssemblyReference.cache
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\MethodExample2\obj\Debug\net6.0\MethodExample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\MethodExample2\obj\Debug\net6.0\MethodExample2.AssemblyInfoInputs.cache
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\MethodExample2\obj\Debug\net6.0\MethodExample2.AssemblyInfo.cs
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\MethodExample2\obj\Debug\net6.0\MethodExample2.csproj.CoreCompileInputs.cache
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\MethodExample2\obj\Debug\net6.0\MethodExample2.dll
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\MethodExample2\obj\Debug\net6.0\refint\MethodExample2.dll
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\MethodExample2\obj\Debug\net6.0\MethodExample2.pdb
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\MethodExample2\obj\Debug\net6.0\MethodExample2.genruntimeconfig.cache
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\MethodExample2\obj\Debug\net6.0\ref\MethodExample2.dll
